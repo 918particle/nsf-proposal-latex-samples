@@ -79,11 +79,6 @@ A.~F. Oskooi, D.~Roundy, M.~Ibanescu, P.~Bermel, J.~Joannopoulos, and S.~G.
 P.~Allison and et~al, ``Low-threshold ultrahigh-energy neutrino search with the
   askaryan radio array,'' {\em Phys. Rev. D}, vol.~105, p.~122006, Jun 2022.
 
-\bibitem{10.1088/1748-0221/15/09/p09039}
-{Anker, A, et al}, ``{Probing the angular and polarization reconstruction of
-  the ARIANNA detector at the South Pole},'' {\em Journal of Instrumentation},
-  vol.~15, no.~09, pp.~P09039--P09039, 2020.
-
 \bibitem{cottrell1}
 M.~Estrada, ``Creating pathways of kindness and inclusion in stem education.''
   Inclusivity in Introductory STEM Courses, 2022.
@@ -111,7 +106,7 @@ C.~Cooper and P.~Pearson, ``A genetically optimized predictive system for
 J.~Grossman, Z.~Lin, H.~Sheng, J.~Wei, J.~Williams, and S.~Goel, ``Mathbot:
   Transforming online resources for learning math into conversational
   interactions,'' {\em Association for the Advancement of Artificial
-  Intelligence (www.aaai.org)}, 2019.
+  Intelligence}, 2019.
 
 \bibitem{edm4}
 H.~Lee and "et al", ``Automated text scoring and real‐time adjustable
@@ -294,6 +289,11 @@ C.~Glaser, A.~Nelles, I.~Plaisier, C.~Welling, S.~W. Barwick,
   D.~García-Fernández, G.~Gaswint, R.~Lahmann, and C.~Persichilli,
   ``{NuRadioReco: a reconstruction framework for radio neutrino detectors},''
   {\em The European Physical Journal C}, vol.~79, no.~6, p.~464, 2019.
+
+\bibitem{10.1088/1748-0221/15/09/p09039}
+{Anker, A, et al}, ``{Probing the angular and polarization reconstruction of
+  the ARIANNA detector at the South Pole},'' {\em Journal of Instrumentation},
+  vol.~15, no.~09, pp.~P09039--P09039, 2020.
 
 \bibitem{IFT}
 C.~Welling, P.~Frank, T.~A. Enßlin, and A.~Nelles, ``{Reconstructing

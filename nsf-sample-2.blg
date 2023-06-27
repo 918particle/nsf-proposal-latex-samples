@@ -7,7 +7,7 @@ Warning--empty journal in Ackermann:201946d
 Warning--empty journal in Ackermann:20195ec
 You've used 71 entries,
             1876 wiz_defined-function locations,
-            863 strings with 21429 characters,
+            863 strings with 21414 characters,
 and the built_in function-call counts, 22668 in all, are:
 = -- 1847
 > -- 1745
