@@ -109,7 +109,7 @@ J.~Grossman, Z.~Lin, H.~Sheng, J.~Wei, J.~Williams, and S.~Goel, ``Mathbot:
   Intelligence}, 2019.
 
 \bibitem{edm4}
-H.~Lee and "et al", ``Automated text scoring and real‐time adjustable
+{Lee, H.S. et al}, ``Automated text scoring and real‐time adjustable
   feedback: Supporting revision of scientific arguments involving
   uncertainty,'' {\em Science Education Journal}, vol.~103, no.~3, 2019.
 
@@ -158,44 +158,21 @@ A.~Hammond, ``High-performance topology optimization for photonics inverse
 {M. Ackermann et al}, ``{Fundamental Physics with High-Energy Cosmic
   Neutrinos},'' 2019.
 
-\bibitem{10.1016/j.astropartphys.2010.06.003}
-M.~Ahlers, L.~Anchordoqui, M.~Gonzalez–Garcia, F.~Halzen, and S.~Sarkar,
-  ``{GZK neutrinos after the Fermi-LAT diffuse photon flux measurement},'' {\em
-  Astroparticle Physics}, vol.~34, no.~2, pp.~106--115, 2010.
-
-\bibitem{10.1088/1475-7516/2010/10/013}
-K.~Kotera, D.~Allard, and A.~Olinto, ``{Cosmogenic neutrinos: parameter space
-  and detectabilty from PeV to ZeV},'' {\em Journal of Cosmology and
-  Astroparticle Physics}, vol.~2010, no.~10, p.~013, 2010.
-
-\bibitem{10.1103/physrevd.98.062003}
-{The IceCube Collaboration}, ``{Differential limit on the extremely-high-energy
-  cosmic neutrino flux in the presence of astrophysical background from nine
-  years of IceCube data},'' {\em Physical Review D}, vol.~98, no.~6, p.~062003,
-  2018.
+\bibitem{10.1103/physrevd.99.122001}
+{The ANITA Collaboration}, ``{Constraints on the ultrahigh-energy cosmic
+  neutrino flux from the fourth flight of ANITA},'' {\em Physical Review D},
+  vol.~99, no.~12, p.~122001, 2019.
 
 \bibitem{10.1088/1475-7516/2020/03/053}
 {The ARIANNA Collaboration}, ``{A search for cosmogenic neutrinos with the
   ARIANNA test bed using 4.5 years of data},'' {\em Journal of Cosmology and
   Astroparticle Physics}, vol.~2020, no.~03, pp.~053--053, 2020.
 
-\bibitem{10.1103/physrevd.102.043021}
-P.~Allison, S.~Archambault, J.~J. Beatty, M.~Beheler-Amass, D.~Z. Besson,
-  M.~Beydler, C.~C. Chen, C.~H. Chen, P.~Chen, B.~A. Clark, W.~Clay,
-  A.~Connolly, L.~Cremonesi, J.~Davies, S.~d. Kockere, K.~D.~d. Vries,
-  C.~Deaconu, M.~A. DuVernois, E.~Friedman, R.~Gaior, J.~Hanson, K.~Hanson,
-  K.~D. Hoffman, B.~Hokanson-Fasig, E.~Hong, S.~Y. Hsu, L.~Hu, J.~J. Huang,
-  M.~H. Huang, K.~Hughes, A.~Ishihara, A.~Karle, J.~L. Kelley, R.~Khandelwal,
-  K.~C. Kim, M.~C. Kim, I.~Kravchenko, K.~Kurusu, H.~Landsman, U.~A. Latif,
-  A.~Laundrie, C.~J. Li, T.~C. Liu, M.~Y. Lu, B.~Madison, K.~Mase, T.~Meures,
-  J.~Nam, R.~J. Nichol, G.~Nir, A.~Novikov, A.~Nozdrina, E.~Oberla,
-  A.~O’Murchadha, J.~Osborn, Y.~Pan, C.~Pfendner, J.~Roth, P.~Sandstrom,
-  D.~Seckel, Y.~S. Shiao, A.~Shultz, D.~Smith, J.~Torres, J.~Touart, N.~v.
-  Eijndhoven, G.~S. Varner, A.~G. Vieregg, M.~Z. Wang, S.~H. Wang, S.~A.
-  Wissel, S.~Yoshida, R.~Young, and A.~Collaboration, ``{Constraints on the
-  diffuse flux of ultrahigh energy neutrinos from four years of Askaryan Radio
-  Array data in two stations},'' {\em Physical Review D}, vol.~102, no.~4,
-  p.~043021, 2020.
+\bibitem{10.1103/physrevd.98.062003}
+{The IceCube Collaboration}, ``{Differential limit on the extremely-high-energy
+  cosmic neutrino flux in the presence of astrophysical background from nine
+  years of IceCube data},'' {\em Physical Review D}, vol.~98, no.~6, p.~062003,
+  2018.
 
 \bibitem{askaryan1}
 {G. Askaryan}, ``{Cherenkov Radiation and Transition Radiation from
@@ -229,10 +206,23 @@ P.~Allison, J.~Auffenberg, R.~Bard, J.~Beatty, D.~Besson, S.~Böser, C.~Chen,
   prospects for ultra-high energy neutrino detection at the south pole},'' {\em
   Physical Review D}, vol.~85, no.~6, p.~062004, 2012.
 
-\bibitem{10.1103/physrevd.99.122001}
-{The ANITA Collaboration}, ``{Constraints on the ultrahigh-energy cosmic
-  neutrino flux from the fourth flight of ANITA},'' {\em Physical Review D},
-  vol.~99, no.~12, p.~122001, 2019.
+\bibitem{10.1103/physrevd.102.043021}
+P.~Allison, S.~Archambault, J.~J. Beatty, M.~Beheler-Amass, D.~Z. Besson,
+  M.~Beydler, C.~C. Chen, C.~H. Chen, P.~Chen, B.~A. Clark, W.~Clay,
+  A.~Connolly, L.~Cremonesi, J.~Davies, S.~d. Kockere, K.~D.~d. Vries,
+  C.~Deaconu, M.~A. DuVernois, E.~Friedman, R.~Gaior, J.~Hanson, K.~Hanson,
+  K.~D. Hoffman, B.~Hokanson-Fasig, E.~Hong, S.~Y. Hsu, L.~Hu, J.~J. Huang,
+  M.~H. Huang, K.~Hughes, A.~Ishihara, A.~Karle, J.~L. Kelley, R.~Khandelwal,
+  K.~C. Kim, M.~C. Kim, I.~Kravchenko, K.~Kurusu, H.~Landsman, U.~A. Latif,
+  A.~Laundrie, C.~J. Li, T.~C. Liu, M.~Y. Lu, B.~Madison, K.~Mase, T.~Meures,
+  J.~Nam, R.~J. Nichol, G.~Nir, A.~Novikov, A.~Nozdrina, E.~Oberla,
+  A.~O’Murchadha, J.~Osborn, Y.~Pan, C.~Pfendner, J.~Roth, P.~Sandstrom,
+  D.~Seckel, Y.~S. Shiao, A.~Shultz, D.~Smith, J.~Torres, J.~Touart, N.~v.
+  Eijndhoven, G.~S. Varner, A.~G. Vieregg, M.~Z. Wang, S.~H. Wang, S.~A.
+  Wissel, S.~Yoshida, R.~Young, and A.~Collaboration, ``{Constraints on the
+  diffuse flux of ultrahigh energy neutrinos from four years of Askaryan Radio
+  Array data in two stations},'' {\em Physical Review D}, vol.~102, no.~4,
+  p.~043021, 2020.
 
 \bibitem{saltzberg}
 D.~Saltzberg, P.~Gorham, D.~Walz, C.~Field, R.~Iverson, A.~Odian, G.~Resch,
@@ -266,7 +256,7 @@ J.~C. Hanson and R.~Hartig, ``Complex analysis of askaryan radiation: A fully
 
 \bibitem{dookayka2011characterizing}
 K.~Dookayka, {\em Characterizing the Search for Ultra-High Energy Neutrinos
-  with the ARIANNA Detector DISSERTATION}.
+  with the ARIANNA Detector}.
 \newblock PhD thesis, University of California, Irvine, 2011.
 
 \bibitem{testbed}
@@ -296,9 +286,9 @@ C.~Glaser, A.~Nelles, I.~Plaisier, C.~Welling, S.~W. Barwick,
   vol.~15, no.~09, pp.~P09039--P09039, 2020.
 
 \bibitem{IFT}
-C.~Welling, P.~Frank, T.~A. Enßlin, and A.~Nelles, ``{Reconstructing
-  non-repeating radio pulses with Information Field Theory},'' {\em arXiv},
-  2021.
+C.~Welling, P.~Frank, T.~Enßlin, and A.~Nelles, ``{Reconstructing
+  non-repeating radio pulses with Information Field Theory},'' {\em Journal of
+  Cosmology and Astroparticle Physics}, vol.~2021, no.~04, p.~071, 2021.
 
 \bibitem{10.1016/j.astropartphys.2014.09.002}
 S.~Barwick, E.~Berg, D.~Besson, T.~Duffin, J.~Hanson, S.~Klein, S.~Kleinfelder,
@@ -306,19 +296,19 @@ S.~Barwick, E.~Berg, D.~Besson, T.~Duffin, J.~Hanson, S.~Klein, S.~Kleinfelder,
   J.~Walker, R.~Young, and L.~Zou, ``{Time-domain response of the ARIANNA
   detector},'' {\em Astroparticle Physics}, vol.~62, pp.~139--151, 2015.
 
-\bibitem{Barwick:2018497}
-S.~W. Barwick, E.~C. Berg, D.~Z. Besson, G.~Gaswint, C.~Glaser, A.~Hallgren,
-  J.~C. Hanson, S.~R. Klein, S.~Kleinfelder, L.~Köpke, I.~Kravchenko,
-  R.~Lahmann, U.~Latif, J.~Nam, A.~Nelles, C.~Persichilli, P.~Sandstrom,
-  J.~Tatar, and E.~Unger, ``{Observation of classically `forbidden'
-  electromagnetic wave propagation and implications for neutrino detection.},''
-  {\em Journal of Cosmology and Astroparticle Physics}, vol.~2018, no.~07,
-  pp.~055--055, 2018.
-
-\bibitem{ALLISON201963}
-{The ARA Collaboration}, ``Measurement of the real dielectric permittivity
-  $\epsilon_r$ of glacial ice,'' {\em Astroparticle Physics}, vol.~108,
-  pp.~63--73, 2019.
+\bibitem{rno}
+J.~A. Aguilar, P.~Allison, J.~J. Beatty, H.~Bernhoff, D.~Besson, N.~Bingefors,
+  O.~Botner, S.~Buitink, K.~Carter, B.~A. Clark, A.~Connolly, P.~Dasgupta,
+  S.~d. Kockere, K.~D.~d. Vries, C.~Deaconu, M.~A. DuVernois, N.~Feigl,
+  D.~García-Fernández, C.~Glaser, A.~Hallgren, S.~Hallmann, J.~C. Hanson,
+  B.~Hendricks, B.~Hokanson-Fasig, C.~Hornhuber, K.~Hughes, A.~Karle, J.~L.
+  Kelley, S.~R. Klein, R.~Krebs, R.~Lahmann, M.~Magnuson, T.~Meures, Z.~S.
+  Meyers, A.~Nelles, A.~Novikov, E.~Oberla, B.~Oeyen, H.~Pandya, I.~Plaisier,
+  L.~Pyras, D.~Ryckbosch, O.~Scholten, D.~Seckel, D.~Smith, D.~Southall,
+  J.~Torres, S.~Toscano, D.~J. V.~D. Broeck, N.~v. Eijndhoven, A.~G. Vieregg,
+  C.~Welling, S.~Wissel, R.~Young, and A.~Zink, ``{Design and sensitivity of
+  the Radio Neutrino Observatory in Greenland (RNO-G)},'' {\em Journal of
+  Instrumentation}, vol.~16, no.~03, p.~P03025, 2021.
 
 \bibitem{10.1016/j.astropartphys.2015.04.002}
 S.~Barwick, E.~Berg, D.~Besson, G.~Binder, W.~Binns, D.~Boersma, R.~Bose,
@@ -337,10 +327,6 @@ S.~Barwick, D.~Besson, A.~Burgman, E.~Chiem, A.~Hallgren, J.~Hanson, S.~Klein,
   S.~Shively, J.~Tatar, E.~Unger, J.~Walker, and G.~Yodh, ``Radio detection of
   air showers with the arianna experiment on the ross ice shelf,'' {\em
   Astroparticle Physics}, 2016.
-
-\bibitem{rno}
-{J A Aguilar et al}, ``{Design and Sensitivity of the Radio Neutrino
-  Observatory in Greenland (RNO-G)},'' {\em arXiv}, 2020.
 
 \bibitem{horizPaper}
 S.~Barwick, E.~Berg, D.~Besson, G.~Gaswint, C.~Glaser, A.~Hallgren, J.~Hanson,
@@ -372,6 +358,12 @@ S.~W. Barwick {\em et~al.}, ``{A First Search for Cosmogenic Neutrinos with the
 J.~Hanson, ``{Broadband RF Phased Array Design for UHE neutrino detection},''
   {\em Proceedings of 37th International Cosmic Ray Conference —
   PoS(ICRC2021)}, p.~1217, 2021.
+
+\bibitem{aguilar_2022}
+J.~A. Aguilar, P.~Allison, J.~J. Beatty, D.~Besson, A.~Bishop, O.~Botner,
+  S.~Bouma, S.~Buitink, M.~Cataldo, B.~A. Clark, and et~al., ``In situ,
+  broadband measurement of the radio frequency attenuation length at summit
+  station, greenland,'' {\em Journal of Glaciology}, p.~1–9, 2022.
 
 \bibitem{barwick_besson_gorham_saltzberg_2005}
 S.~Barwick, D.~Besson, P.~Gorham, and D.~Saltzberg, ``South polar in situ
