@@ -5,45 +5,45 @@ The style file: ieeetr.bst
 Database file #1: bibliography.bib
 Warning--empty journal in Ackermann:201946d
 Warning--empty journal in Ackermann:20195ec
-You've used 68 entries,
+You've used 66 entries,
             1876 wiz_defined-function locations,
-            849 strings with 21614 characters,
-and the built_in function-call counts, 22534 in all, are:
-= -- 1780
-> -- 1848
+            837 strings with 20526 characters,
+and the built_in function-call counts, 21272 in all, are:
+= -- 1719
+> -- 1669
 < -- 0
-+ -- 647
-- -- 579
-* -- 1959
-:= -- 3654
-add.period$ -- 71
-call.type$ -- 68
-change.case$ -- 66
++ -- 587
+- -- 521
+* -- 1818
+:= -- 3420
+add.period$ -- 69
+call.type$ -- 66
+change.case$ -- 64
 chr.to.int$ -- 0
-cite$ -- 70
-duplicate$ -- 991
-empty$ -- 1512
-format.name$ -- 579
-if$ -- 5095
+cite$ -- 68
+duplicate$ -- 957
+empty$ -- 1465
+format.name$ -- 521
+if$ -- 4841
 int.to.chr$ -- 0
-int.to.str$ -- 68
-missing$ -- 60
-newline$ -- 210
-num.names$ -- 68
-pop$ -- 137
+int.to.str$ -- 66
+missing$ -- 58
+newline$ -- 204
+num.names$ -- 66
+pop$ -- 133
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 743
+skip$ -- 709
 stack$ -- 0
-substring$ -- 946
-swap$ -- 485
+substring$ -- 914
+swap$ -- 465
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 2
-while$ -- 148
-width$ -- 70
-write$ -- 677
+while$ -- 143
+width$ -- 68
+write$ -- 658
 (There were 2 warnings)

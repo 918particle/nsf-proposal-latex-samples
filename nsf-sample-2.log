@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  28 JUN 2023 16:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  30 JUN 2023 14:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -273,26 +273,30 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 8
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
-) [2
+)
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [2
 
 ]
 <figures/Oct30_plot1.png, id=17, 481.8pt x 361.35pt>
 File: figures/Oct30_plot1.png Graphic file (type png)
 <use figures/Oct30_plot1.png>
-Package pdftex.def Info: figures/Oct30_plot1.png  used on input line 107.
+Package pdftex.def Info: figures/Oct30_plot1.png  used on input line 109.
 (pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
 <figures/Aug11_plot2.png, id=18, 481.8pt x 361.35pt>
 File: figures/Aug11_plot2.png Graphic file (type png)
 <use figures/Aug11_plot2.png>
-Package pdftex.def Info: figures/Aug11_plot2.png  used on input line 108.
+Package pdftex.def Info: figures/Aug11_plot2.png  used on input line 110.
 (pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
 <figures/Aug11_plot1.png, id=19, 481.8pt x 361.35pt>
 File: figures/Aug11_plot1.png Graphic file (type png)
 <use figures/Aug11_plot1.png>
-Package pdftex.def Info: figures/Aug11_plot1.png  used on input line 109.
+Package pdftex.def Info: figures/Aug11_plot1.png  used on input line 111.
 (pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
- [3 <./figures/Oct30_plot1.png> <./figures/Aug11_plot2.png> <./figures/Aug11_pl
-ot1.png>]
+
+[3 <./figures/Oct30_plot1.png> <./figures/Aug11_plot2.png> <./figures/Aug11_plo
+t1.png>]
 
 pdfTeX warning: /usr/local/texlive/2023/bin/x86_64-linux/pdflatex (file ./figur
 es/fields/colorbar.pdf): PDF inclusion: found PDF version <1.6>, but at most ve
@@ -300,13 +304,13 @@ rsion <1.5> allowed
 <figures/fields/colorbar.pdf, id=27, 542.025pt x 108.405pt>
 File: figures/fields/colorbar.pdf Graphic file (type pdf)
 <use figures/fields/colorbar.pdf>
-Package pdftex.def Info: figures/fields/colorbar.pdf  used on input line 119.
+Package pdftex.def Info: figures/fields/colorbar.pdf  used on input line 121.
 (pdftex.def)             Requested size: 160.04674pt x 32.00896pt.
 <figures/fields/ey_phase_horn_t30.png, id=28, 481.8pt x 903.375pt>
 File: figures/fields/ey_phase_horn_t30.png Graphic file (type png)
 <use figures/fields/ey_phase_horn_t30.png>
 Package pdftex.def Info: figures/fields/ey_phase_horn_t30.png  used on input li
-ne 121.
+ne 122.
 (pdftex.def)             Requested size: 85.35826pt x 160.03659pt.
 <figures/fields/ey_phase_horn_t60.png, id=29, 481.8pt x 903.375pt>
 File: figures/fields/ey_phase_horn_t60.png Graphic file (type png)
@@ -320,6 +324,13 @@ File: figures/fields/rad_patt_field.png Graphic file (type png)
 Package pdftex.def Info: figures/fields/rad_patt_field.png  used on input line 
 124.
 (pdftex.def)             Requested size: 170.71652pt x 162.50989pt.
+
+Underfull \hbox (badness 1616) in paragraph at lines 125--125
+[]\OT1/ppl/m/sc/10 Figure 2.|[] \OT1/ppl/m/n/10 (Left) The horn ar-ray, ra-di-a
+t-ing the lin-early po-lar-ized $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; t\OT
+1/cmr/m/n/10 )$ \OT1/ppl/m/n/10 (y-
+ []
+
 <figures/blender_example.png, id=32, 1263.72125pt x 1038.88126pt>
 File: figures/blender_example.png Graphic file (type png)
 <use figures/blender_example.png>
@@ -340,12 +351,9 @@ File: figures/multi3dllc.png Graphic file (type png)
 <use figures/multi3dllc.png>
 Package pdftex.def Info: figures/multi3dllc.png  used on input line 140.
 (pdftex.def)             Requested size: 389.37889pt x 84.39088pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [4 <./figures/fields/colorbar.pdf> <./figures/fields/ey_phase_horn_t30.png (PN
-G copy)> <./figures/fields/ey_phase_horn_t60.png (PNG copy)> <./figures/fields/
-rad_patt_field.png>]
+[4 <./figures/fields/colorbar.pdf> <./figures/fields/ey_phase_horn_t30.png (PNG
+ copy)> <./figures/fields/ey_phase_horn_t60.png (PNG copy)> <./figures/fields/r
+ad_patt_field.png>]
 <figures/3DHorn_CAD_0_5GHz_E_plane.png, id=49, 462.528pt x 346.896pt>
 File: figures/3DHorn_CAD_0_5GHz_E_plane.png Graphic file (type png)
 <use figures/3DHorn_CAD_0_5GHz_E_plane.png>
@@ -388,7 +396,7 @@ e.png> <./figures/3DHorn_CAD_5GHz_H_plane.png> <./figures/vswr.png>] [7]
 File: figures/drone.jpg Graphic file (type jpg)
 <use figures/drone.jpg>
 Package pdftex.def Info: figures/drone.jpg  used on input line 196.
-(pdftex.def)             Requested size: 183.23302pt x 137.41808pt.
+(pdftex.def)             Requested size: 160.33412pt x 120.23503pt.
 
 [8 <./figures/drone.jpg>] [9] [10] [11] [12] [13]
 
@@ -402,25 +410,25 @@ File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
 ed on input line 342.
-(pdftex.def)             Requested size: 453.51115pt x 131.54788pt.
+(pdftex.def)             Requested size: 453.51115pt x 138.21361pt.
 File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 )
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
 ed on input line 343.
-(pdftex.def)             Requested size: 453.51115pt x 69.21332pt.
+(pdftex.def)             Requested size: 453.51115pt x 86.92365pt.
 [14] [15] [16 <./figures/project_planning/cem_project_gantt_yr1.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17
 
 ]
-Overfull \hbox (3.53963pt too wide) in paragraph at lines 374--382
+Overfull \hbox (3.53963pt too wide) in paragraph at lines 376--384
  [][] 
  []
 
 
-Overfull \hbox (3.79117pt too wide) in paragraph at lines 386--400
+Overfull \hbox (3.79117pt too wide) in paragraph at lines 388--402
  [][] 
  []
 
@@ -431,11 +439,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-[21]
+[21] (./nsf-sample-2.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22]
-(./nsf-sample-2.bbl [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [24]
@@ -444,10 +454,10 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [25])
 [26] (./nsf-sample-2.aux) ) 
 Here is how much of TeX's memory you used:
- 5139 strings out of 476097
- 84502 string characters out of 5791138
+ 5137 strings out of 476097
+ 84471 string characters out of 5791138
  1875851 words of memory out of 5000000
- 25287 multiletter control sequences out of 15000+600000
+ 25285 multiletter control sequences out of 15000+600000
  529412 words of font info for 76 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  71i,11n,77p,1614b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -461,7 +471,7 @@ ts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/up
 lb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on nsf-sample-2.pdf (26 pages, 5736697 bytes).
+Output written on nsf-sample-2.pdf (26 pages, 5736850 bytes).
 PDF statistics:
  206 PDF objects out of 1000 (max. 8388607)
  113 compressed objects within 2 object streams
