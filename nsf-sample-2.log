@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  30 JUN 2023 16:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  3 JUL 2023 12:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -130,13 +130,35 @@ Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
 \bigaw@=\dimen153
 \minCDarrowwidth=\dimen154
 )
-(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks28
 )
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count272
+\Gm@cntv=\count273
+\c@Gm@tempcnt=\count274
+\Gm@bindingoffset=\dimen155
+\Gm@wd@mp=\dimen156
+\Gm@odd@mp=\dimen157
+\Gm@even@mp=\dimen158
+\Gm@layoutwidth=\dimen159
+\Gm@layoutheight=\dimen160
+\Gm@layouthoffset=\dimen161
+\Gm@layoutvoffset=\dimen162
+\Gm@dimlist=\toks29
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
 
@@ -151,8 +173,8 @@ Package graphics Info: Driver file: pdftex.def on input line 107.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen155
-\Gin@req@width=\dimen156
+\Gin@req@height=\dimen163
+\Gin@req@width=\dimen164
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/02/19 v1.6 Sub-captions (AR)
@@ -162,98 +184,131 @@ Package: caption 2023/03/12 v3.6j Customizing captions (AR)
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/03/12 v2.4 caption3 kernel (AR)
-\caption@tempdima=\dimen157
-\captionmargin=\dimen158
-\caption@leftmargin=\dimen159
-\caption@rightmargin=\dimen160
-\caption@width=\dimen161
-\caption@indent=\dimen162
-\caption@parindent=\dimen163
-\caption@hangindent=\dimen164
+\caption@tempdima=\dimen165
+\captionmargin=\dimen166
+\caption@leftmargin=\dimen167
+\caption@rightmargin=\dimen168
+\caption@width=\dimen169
+\caption@indent=\dimen170
+\caption@parindent=\dimen171
+\caption@hangindent=\dimen172
 Package caption Info: AMS or SMF document class detected.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/caption/caption-ams-smf.sto
 File: caption-ams-smf.sto 2020/08/22 v2.0 Adaption of the caption package to th
 e AMS and SMF document classes (AR)
 ))
-\c@caption@flags=\count272
-\c@continuedfloat=\count273
+\c@caption@flags=\count275
+\c@continuedfloat=\count276
 )
 Package caption Info: New subtype `subfigure' on input line 239.
-\c@subfigure=\count274
+\c@subfigure=\count277
 Package caption Info: New subtype `subtable' on input line 239.
-\c@subtable=\count275
+\c@subtable=\count278
 )
 (/usr/local/texlive/2023/texmf-dist/tex/generic/epsf/epsf.sty
 This is `epsf.tex' v2.7.4 <14 February 2011>
 \epsffilein=\read2
-\epsfframemargin=\dimen165
-\epsfframethickness=\dimen166
-\epsfrsize=\dimen167
-\epsftmp=\dimen168
-\epsftsize=\dimen169
-\epsfxsize=\dimen170
-\epsfysize=\dimen171
-\pspoints=\dimen172
+\epsfframemargin=\dimen173
+\epsfframethickness=\dimen174
+\epsfrsize=\dimen175
+\epsftmp=\dimen176
+\epsftsize=\dimen177
+\epsfxsize=\dimen178
+\epsfysize=\dimen179
+\pspoints=\dimen180
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-\c@thm=\count276
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 6
-0.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 2
+6.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count277
+\l__color_backend_stack_int=\count279
 \l__pdf_internal_box=\box54
 )
 (./nsf-sample-2.aux)
 \openout1 = `nsf-sample-2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
-LaTeX Font Info:    ... okay on input line 60.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 60.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 60.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
 
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-22.0pt
+* \headheight=8.0pt
+* \headsep=14.0pt
+* \topskip=10.0pt
+* \footskip=12.0pt
+* \marginparwidth=90.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=7.0pt plus 11.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen173
+\scratchcounter=\count280
+\scratchdimen=\dimen181
 \scratchbox=\box55
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen174
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks30
+\nofMPsegments=\count281
+\nofMParguments=\count282
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count283
+\MPscratchDim=\dimen182
+\MPnumerator=\count284
+\makeMPintoPDFobject=\count285
+\everyMPtoPDFconversion=\toks31
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -266,10 +321,19 @@ e
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
+
 [1{/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/l
 ocal/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}]
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 8
-4.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 5
+0.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
@@ -282,199 +346,198 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <figures/Oct30_plot1.png, id=17, 481.8pt x 361.35pt>
 File: figures/Oct30_plot1.png Graphic file (type png)
 <use figures/Oct30_plot1.png>
-Package pdftex.def Info: figures/Oct30_plot1.png  used on input line 109.
-(pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
+Package pdftex.def Info: figures/Oct30_plot1.png  used on input line 75.
+(pdftex.def)             Requested size: 150.32504pt x 112.73964pt.
 <figures/Aug11_plot2.png, id=18, 481.8pt x 361.35pt>
 File: figures/Aug11_plot2.png Graphic file (type png)
 <use figures/Aug11_plot2.png>
-Package pdftex.def Info: figures/Aug11_plot2.png  used on input line 110.
-(pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
+Package pdftex.def Info: figures/Aug11_plot2.png  used on input line 76.
+(pdftex.def)             Requested size: 150.32504pt x 112.73964pt.
 <figures/Aug11_plot1.png, id=19, 481.8pt x 361.35pt>
 File: figures/Aug11_plot1.png Graphic file (type png)
 <use figures/Aug11_plot1.png>
-Package pdftex.def Info: figures/Aug11_plot1.png  used on input line 111.
-(pdftex.def)             Requested size: 151.17038pt x 113.37372pt.
+Package pdftex.def Info: figures/Aug11_plot1.png  used on input line 77.
+(pdftex.def)             Requested size: 150.32504pt x 112.73964pt.
 
-[3 <./figures/Oct30_plot1.png> <./figures/Aug11_plot2.png> <./figures/Aug11_plo
-t1.png>]
+[3]
 
 pdfTeX warning: /usr/local/texlive/2023/bin/x86_64-linux/pdflatex (file ./figur
 es/fields/colorbar.pdf): PDF inclusion: found PDF version <1.6>, but at most ve
 rsion <1.5> allowed
-<figures/fields/colorbar.pdf, id=27, 542.025pt x 108.405pt>
+<figures/fields/colorbar.pdf, id=24, 542.025pt x 108.405pt>
 File: figures/fields/colorbar.pdf Graphic file (type pdf)
 <use figures/fields/colorbar.pdf>
-Package pdftex.def Info: figures/fields/colorbar.pdf  used on input line 121.
-(pdftex.def)             Requested size: 160.04674pt x 32.00896pt.
-<figures/fields/ey_phase_horn_t30.png, id=28, 481.8pt x 903.375pt>
+Package pdftex.def Info: figures/fields/colorbar.pdf  used on input line 87.
+(pdftex.def)             Requested size: 133.72786pt x 26.74553pt.
+<figures/fields/ey_phase_horn_t30.png, id=25, 481.8pt x 903.375pt>
 File: figures/fields/ey_phase_horn_t30.png Graphic file (type png)
 <use figures/fields/ey_phase_horn_t30.png>
 Package pdftex.def Info: figures/fields/ey_phase_horn_t30.png  used on input li
-ne 122.
-(pdftex.def)             Requested size: 85.35826pt x 160.03659pt.
-<figures/fields/ey_phase_horn_t60.png, id=29, 481.8pt x 903.375pt>
+ne 88.
+(pdftex.def)             Requested size: 71.13188pt x 133.36382pt.
+<figures/fields/ey_phase_horn_t60.png, id=26, 481.8pt x 903.375pt>
 File: figures/fields/ey_phase_horn_t60.png Graphic file (type png)
 <use figures/fields/ey_phase_horn_t60.png>
 Package pdftex.def Info: figures/fields/ey_phase_horn_t60.png  used on input li
-ne 123.
-(pdftex.def)             Requested size: 85.35826pt x 160.03659pt.
-<figures/fields/rad_patt_field.png, id=30, 292.09125pt x 278.03876pt>
+ne 89.
+(pdftex.def)             Requested size: 71.13188pt x 133.36382pt.
+<figures/fields/rad_patt_field.png, id=27, 292.09125pt x 278.03876pt>
 File: figures/fields/rad_patt_field.png Graphic file (type png)
 <use figures/fields/rad_patt_field.png>
 Package pdftex.def Info: figures/fields/rad_patt_field.png  used on input line 
-124.
-(pdftex.def)             Requested size: 170.71652pt x 162.50989pt.
-
-Underfull \hbox (badness 1616) in paragraph at lines 125--125
-[]\OT1/ppl/m/sc/10 Figure 2.|[] \OT1/ppl/m/n/10 (Left) The horn ar-ray, ra-di-a
-t-ing the lin-early po-lar-ized $[]\OT1/cmr/m/n/10 (\OML/cmm/m/it/10 x; y; t\OT
-1/cmr/m/n/10 )$ \OT1/ppl/m/n/10 (y-
- []
-
-<figures/blender_example.png, id=32, 1263.72125pt x 1038.88126pt>
+90.
+(pdftex.def)             Requested size: 142.26378pt x 135.42137pt.
+<figures/blender_example.png, id=29, 1263.72125pt x 1038.88126pt>
 File: figures/blender_example.png Graphic file (type png)
 <use figures/blender_example.png>
-Package pdftex.def Info: figures/blender_example.png  used on input line 130.
-(pdftex.def)             Requested size: 183.23302pt x 150.62599pt.
-<figures/3dprinter.jpg, id=33, 3035.34pt x 4047.12pt>
+Package pdftex.def Info: figures/blender_example.png  used on input line 96.
+(pdftex.def)             Requested size: 140.92793pt x 115.84663pt.
+<figures/3dprinter.jpg, id=30, 3035.34pt x 4047.12pt>
 File: figures/3dprinter.jpg Graphic file (type jpg)
 <use figures/3dprinter.jpg>
-Package pdftex.def Info: figures/3dprinter.jpg  used on input line 131.
-(pdftex.def)             Requested size: 114.52238pt x 152.65588pt.
-<figures/3dprinter_2.jpg, id=34, 3035.34pt x 4047.12pt>
+Package pdftex.def Info: figures/3dprinter.jpg  used on input line 97.
+(pdftex.def)             Requested size: 93.94957pt x 125.2371pt.
+<figures/3dprinter_2.jpg, id=31, 3035.34pt x 4047.12pt>
 File: figures/3dprinter_2.jpg Graphic file (type jpg)
 <use figures/3dprinter_2.jpg>
-Package pdftex.def Info: figures/3dprinter_2.jpg  used on input line 132.
-(pdftex.def)             Requested size: 114.52238pt x 152.65588pt.
-<figures/multi3dllc.png, id=35, 910.40125pt x 396.48125pt>
+Package pdftex.def Info: figures/3dprinter_2.jpg  used on input line 98.
+(pdftex.def)             Requested size: 93.94957pt x 125.2371pt.
+[4 <./figures/Oct30_plot1.png> <./figures/Aug11_plot2.png> <./figures/Aug11_plo
+t1.png> <./figures/fields/colorbar.pdf> <./figures/fields/ey_phase_horn_t30.png
+ (PNG copy)> <./figures/fields/ey_phase_horn_t60.png (PNG copy)> <./figures/fie
+lds/rad_patt_field.png>]
+<figures/multi3dllc.png, id=47, 910.40125pt x 396.48125pt>
 File: figures/multi3dllc.png Graphic file (type png)
 <use figures/multi3dllc.png>
-Package pdftex.def Info: figures/multi3dllc.png  used on input line 140.
-(pdftex.def)             Requested size: 389.37889pt x 84.39088pt.
-[4 <./figures/fields/colorbar.pdf> <./figures/fields/ey_phase_horn_t30.png (PNG
- copy)> <./figures/fields/ey_phase_horn_t60.png (PNG copy)> <./figures/fields/r
-ad_patt_field.png>]
+Package pdftex.def Info: figures/multi3dllc.png  used on input line 106.
+(pdftex.def)             Requested size: 328.82707pt x 71.26709pt.
 <figures/3DHorn_CAD_0_5GHz_E_plane.png, id=49, 462.528pt x 346.896pt>
 File: figures/3DHorn_CAD_0_5GHz_E_plane.png Graphic file (type png)
 <use figures/3DHorn_CAD_0_5GHz_E_plane.png>
 Package pdftex.def Info: figures/3DHorn_CAD_0_5GHz_E_plane.png  used on input l
-ine 149.
-(pdftex.def)             Requested size: 145.90178pt x 109.42632pt.
+ine 115.
+(pdftex.def)             Requested size: 149.61723pt x 112.21054pt.
 <figures/3DHorn_CAD_5GHz_E_plane.png, id=50, 462.528pt x 346.896pt>
 File: figures/3DHorn_CAD_5GHz_E_plane.png Graphic file (type png)
 <use figures/3DHorn_CAD_5GHz_E_plane.png>
 Package pdftex.def Info: figures/3DHorn_CAD_5GHz_E_plane.png  used on input lin
-e 150.
-(pdftex.def)             Requested size: 145.90178pt x 109.42632pt.
+e 116.
+(pdftex.def)             Requested size: 149.61723pt x 112.21054pt.
 <figures/3DHorn_CAD_0_5GHz_H_plane.png, id=51, 462.528pt x 346.896pt>
 File: figures/3DHorn_CAD_0_5GHz_H_plane.png Graphic file (type png)
 <use figures/3DHorn_CAD_0_5GHz_H_plane.png>
 Package pdftex.def Info: figures/3DHorn_CAD_0_5GHz_H_plane.png  used on input l
-ine 151.
-(pdftex.def)             Requested size: 145.90178pt x 109.42632pt.
+ine 117.
+(pdftex.def)             Requested size: 149.61723pt x 112.21054pt.
 <figures/3DHorn_CAD_5GHz_H_plane.png, id=52, 462.528pt x 346.896pt>
 File: figures/3DHorn_CAD_5GHz_H_plane.png Graphic file (type png)
 <use figures/3DHorn_CAD_5GHz_H_plane.png>
 Package pdftex.def Info: figures/3DHorn_CAD_5GHz_H_plane.png  used on input lin
-e 152.
-(pdftex.def)             Requested size: 145.90178pt x 109.42632pt.
+e 118.
+(pdftex.def)             Requested size: 149.61723pt x 112.21054pt.
 <figures/vswr.png, id=53, 402.50375pt x 291.0875pt>
 File: figures/vswr.png Graphic file (type png)
 <use figures/vswr.png>
-Package pdftex.def Info: figures/vswr.png  used on input line 157.
-(pdftex.def)             Requested size: 136.05472pt x 98.39102pt.
+Package pdftex.def Info: figures/vswr.png  used on input line 123.
+(pdftex.def)             Requested size: 139.51942pt x 100.8961pt.
+ [5 <./figures/blender_example.png> <./figures/3dprinter.jpg> <./figures/3dprin
+ter_2.jpg> <./figures/multi3dllc.png>] [6 <./figures/3DHorn_CAD_0_5GHz_E_plane.
+png> <./figures/3DHorn_CAD_5GHz_E_plane.png> <./figures/3DHorn_CAD_0_5GHz_H_pla
+ne.png> <./figures/3DHorn_CAD_5GHz_H_plane.png> <./figures/vswr.png>] [7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-Underfull \hbox (badness 3049) in paragraph at lines 158--158
-[]\OT1/ppl/m/sc/9 (b) |\OT1/ppl/m/n/9 VSWR ver-sus fre-quency in
- []
+ [8]
+Overfull \vbox (1.07068pt too high) has occurred while \output is active []
 
-[5 <./figures/blender_example.png> <./figures/3dprinter.jpg> <./figures/3dprint
-er_2.jpg> <./figures/multi3dllc.png>] [6 <./figures/3DHorn_CAD_0_5GHz_E_plane.p
-ng> <./figures/3DHorn_CAD_5GHz_E_plane.png> <./figures/3DHorn_CAD_0_5GHz_H_plan
-e.png> <./figures/3DHorn_CAD_5GHz_H_plane.png> <./figures/vswr.png>] [7]
-<figures/drone.jpg, id=72, 4047.12pt x 3035.34pt>
-File: figures/drone.jpg Graphic file (type jpg)
-<use figures/drone.jpg>
-Package pdftex.def Info: figures/drone.jpg  used on input line 196.
-(pdftex.def)             Requested size: 160.33412pt x 120.23503pt.
 
-[8 <./figures/drone.jpg>] [9] [10] [11] [12] [13]
+[9] [10] [11]
+Underfull \vbox (badness 1596) has occurred while \output is active []
+
+ [12]
+[13]
 
 pdfTeX warning: /usr/local/texlive/2023/bin/x86_64-linux/pdflatex (file ./figur
 es/project_planning/cem_project_gantt_yr1.pdf): PDF inclusion: found PDF versio
 n <1.6>, but at most version <1.5> allowed
-<figures/project_planning/cem_project_gantt_yr1.pdf, id=92, 542.025pt x 469.755
+<figures/project_planning/cem_project_gantt_yr1.pdf, id=91, 542.025pt x 469.755
 pt>
 File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 )
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
-ed on input line 342.
-(pdftex.def)             Requested size: 453.51115pt x 138.21361pt.
+ed on input line 304.
+(pdftex.def)             Requested size: 465.06004pt x 141.73352pt.
 File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 )
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
-ed on input line 343.
-(pdftex.def)             Requested size: 453.51115pt x 86.92365pt.
+ed on input line 305.
+(pdftex.def)             Requested size: 465.06004pt x 89.13734pt.
 [14] [15] [16 <./figures/project_planning/cem_project_gantt_yr1.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [17
 
 ]
-Overfull \hbox (3.53963pt too wide) in paragraph at lines 376--384
- [][] 
- []
-
-
-Overfull \hbox (3.79117pt too wide) in paragraph at lines 388--402
- [][] 
- []
-
 [18]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [19]
+ [19
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-[21] (./nsf-sample-2.bbl
+[21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22]
+ [22
+
+]
+[23] (./nsf-sample-2.bbl
+Underfull \hbox (badness 1052) in paragraph at lines 9--17
+[]\OT1/ppl/m/n/10.95 J. Avva, K. Bech-tol, T. Chese-bro, L. Cre-monesi, C. Dea-
+conu, A. Gupta, A. Lud-wig,
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23]
+ [24
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24]
+ [25]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [25])
-[26] (./nsf-sample-2.aux) ) 
+ [26]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [27])
+[28] (./nsf-sample-2.aux) ) 
 Here is how much of TeX's memory you used:
- 5137 strings out of 476097
- 84471 string characters out of 5791138
- 1875851 words of memory out of 5000000
- 25285 multiletter control sequences out of 15000+600000
- 529412 words of font info for 76 fonts, out of 8000000 for 9000
+ 5683 strings out of 476097
+ 93215 string characters out of 5791138
+ 1876851 words of memory out of 5000000
+ 25818 multiletter control sequences out of 15000+600000
+ 530811 words of font info for 82 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 71i,11n,77p,1614b,540s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,11n,77p,1519b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/am
-sfonts/cm/cmr7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
+sfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy7.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/up
+ts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/up
 lb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on nsf-sample-2.pdf (26 pages, 5736857 bytes).
+Output written on nsf-sample-2.pdf (28 pages, 3612858 bytes).
 PDF statistics:
- 206 PDF objects out of 1000 (max. 8388607)
- 113 compressed objects within 2 object streams
+ 211 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
- 109 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 
