@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  3 JUL 2023 12:34
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  5 JUL 2023 12:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -534,7 +534,7 @@ ts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/up
 lb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on nsf-sample-2.pdf (28 pages, 3612858 bytes).
+Output written on nsf-sample-2.pdf (28 pages, 3613027 bytes).
 PDF statistics:
  211 PDF objects out of 1000 (max. 8388607)
  117 compressed objects within 2 object streams
