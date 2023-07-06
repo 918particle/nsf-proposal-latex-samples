@@ -66,16 +66,6 @@ F.~Pizarro, R.~Salazar, E.~Rajo-Iglesias, M.~Rodríguez, S.~Fingerhuth, and
   Conductive Filaments on Microwave Topologies},'' {\em IEEE Access}, vol.~7,
   pp.~106814--106823, 2019.
 
-\bibitem{meepcon2022}
-J.~C. Hanson, ``{Broadband RF Phased Array Design with Meep}.'' MeepCon 2022,
-  2022.
-
-\bibitem{10.1016/j.cpc.2009.11.008}
-A.~F. Oskooi, D.~Roundy, M.~Ibanescu, P.~Bermel, J.~Joannopoulos, and S.~G.
-  Johnson, ``{Meep: A flexible free-software package for electromagnetic
-  simulations by the FDTD method},'' {\em Computer Physics Communications},
-  vol.~181, no.~3, pp.~687--702, 2010.
-
 \bibitem{PhysRevD.105.122006}
 {Allison, P., et al}, ``{Low-threshold ultrahigh-energy neutrino search with
   the Askaryan Radio Array},'' {\em Phys. Rev. D}, vol.~105, p.~122006, Jun
@@ -132,6 +122,16 @@ F.~Cui, G.~Dong, Y.~Chen, C.~Wang, D.~Teng, and R.~Wang, ``{Numerical modeling
 R.~Mailloux, {\em The Phased Array Handbook, 3rd ed.}
 \newblock Boston: Artech House, 2017.
 
+\bibitem{10.1016/j.cpc.2009.11.008}
+A.~F. Oskooi, D.~Roundy, M.~Ibanescu, P.~Bermel, J.~Joannopoulos, and S.~G.
+  Johnson, ``{Meep: A flexible free-software package for electromagnetic
+  simulations by the FDTD method},'' {\em Computer Physics Communications},
+  vol.~181, no.~3, pp.~687--702, 2010.
+
+\bibitem{meepcon2022}
+J.~C. Hanson, ``{Broadband RF Phased Array Design with Meep}.'' MeepCon 2022,
+  2022.
+
 \bibitem{10.1049/iet-map.2017.0104}
 O.~Yurduseven, P.~Flowers, S.~Ye, D.~L. Marks, J.~N. Gollub, T.~Fromenteze,
   B.~J. Wiley, and D.~R. Smith, ``{Computational microwave imaging using 3D
@@ -152,6 +152,20 @@ A.~Hammond, ``{High-Performance Topology Optimization for Photonics Inverse
 {The IceCube Collaboration}, ``{Evidence for High-Energy Extraterrestrial
   Neutrinos at the IceCube Detector},'' {\em Science}, vol.~342, no.~6161,
   pp.~1242856--1242856, 2013.
+
+\bibitem{10.1126/science.aat2890}
+{The IceCube Collaboration}, ``{Neutrino emission from the direction of the
+  blazar TXS 0506+056 prior to the IceCube-170922A alert},'' {\em Science},
+  vol.~361, no.~6398, pp.~147--151, 2018.
+
+\bibitem{10.1126/science.abg3395}
+{The IceCube Collaboration}, ``{Evidence for neutrino emission from the nearby
+  active galaxy NGC 1068},'' {\em Science}, vol.~378, no.~6619, pp.~538--543,
+  2022.
+
+\bibitem{10.1126/science.adc9818}
+{The IceCube Collaboration}, ``{Observation of high-energy neutrinos from the
+  Galactic plane},'' {\em Science}, vol.~380, no.~6652, pp.~1338--1343, 2023.
 
 \bibitem{Ackermann:201946d}
 {M. Ackermann et al}, ``{Astrophysics Uniquely Enabled by Observations of
@@ -337,11 +351,6 @@ S.~Barwick, E.~Berg, D.~Besson, T.~Duffin, J.~Hanson, S.~Klein, S.~Kleinfelder,
   R.~Young, and L.~Zou, ``{Design and Performance of the ARIANNA HRA-3 Neutrino
   Detector Systems},'' {\em IEEE Transactions on Nuclear Science}, vol.~62,
   no.~5, pp.~2202--2215, 2015.
-
-\bibitem{10.22323/1.395.1217}
-J.~Hanson, ``{Broadband RF Phased Array Design for UHE neutrino detection},''
-  {\em Proceedings of 37th International Cosmic Ray Conference —
-  PoS(ICRC2021)}, p.~1217, 2021.
 
 \bibitem{aguilar_2022}
 J.~A. Aguilar, P.~Allison, J.~J. Beatty, D.~Besson, A.~Bishop, O.~Botner,
