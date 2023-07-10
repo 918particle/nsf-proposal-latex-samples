@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  6 JUL 2023 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.18)  10 JUL 2023 13:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -453,11 +453,14 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Overfull \vbox (1.07068pt too high) has occurred while \output is active []
 
 
-[9] [10] [11]
-Underfull \vbox (badness 1596) has occurred while \output is active []
+[9] [10]
+Underfull \vbox (badness 1888) has occurred while \output is active []
 
- [12]
-[13]
+ [11]
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
 
 pdfTeX warning: /usr/local/texlive/2023/bin/x86_64-linux/pdflatex (file ./figur
 es/project_planning/cem_project_gantt_yr1.pdf): PDF inclusion: found PDF versio
@@ -468,13 +471,13 @@ File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 )
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
-ed on input line 298.
+ed on input line 300.
 (pdftex.def)             Requested size: 465.06004pt x 163.87895pt.
 File: figures/project_planning/cem_project_gantt_yr1.pdf Graphic file (type pdf
 )
 <use figures/project_planning/cem_project_gantt_yr1.pdf>
 Package pdftex.def Info: figures/project_planning/cem_project_gantt_yr1.pdf  us
-ed on input line 299.
+ed on input line 301.
 (pdftex.def)             Requested size: 465.06004pt x 89.13734pt.
 [14] [15] [16 <./figures/project_planning/cem_project_gantt_yr1.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -483,22 +486,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [18]
-Underfull \hbox (badness 10000) in paragraph at lines 368--369
+Underfull \hbox (badness 10000) in paragraph at lines 372--373
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--372
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--376
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 373--376
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
 
  []
 
@@ -513,12 +506,22 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--380
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 381--383
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--386
+Underfull \hbox (badness 10000) in paragraph at lines 381--384
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 385--387
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 388--390
 
  []
 
@@ -528,37 +531,37 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [19
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 387--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 387--390
+Underfull \hbox (badness 10000) in paragraph at lines 391--394
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--397
+Underfull \hbox (badness 10000) in paragraph at lines 395--401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--397
+Underfull \hbox (badness 10000) in paragraph at lines 395--401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 391--397
+Underfull \hbox (badness 10000) in paragraph at lines 395--401
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 398--401
+Underfull \hbox (badness 10000) in paragraph at lines 402--405
 
  []
 
@@ -566,32 +569,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 398--401
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [20]
-Underfull \hbox (badness 10000) in paragraph at lines 402--405
+Underfull \hbox (badness 10000) in paragraph at lines 406--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--405
+Underfull \hbox (badness 10000) in paragraph at lines 406--409
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 406--408
+Underfull \hbox (badness 10000) in paragraph at lines 410--412
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 409--411
+Underfull \hbox (badness 10000) in paragraph at lines 413--415
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 412--414
+Underfull \hbox (badness 10000) in paragraph at lines 416--418
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 415--417
+Underfull \hbox (badness 10000) in paragraph at lines 419--421
 
  []
 
@@ -599,17 +602,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 415--417
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-Underfull \hbox (badness 10000) in paragraph at lines 418--420
+Underfull \hbox (badness 10000) in paragraph at lines 422--424
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 421--423
+Underfull \hbox (badness 10000) in paragraph at lines 425--427
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 424--426
+Underfull \hbox (badness 10000) in paragraph at lines 428--430
 
  []
 
@@ -644,11 +647,11 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Here is how much of TeX's memory you used:
  5688 strings out of 476097
  93297 string characters out of 5791138
- 1876851 words of memory out of 5000000
+ 1875851 words of memory out of 5000000
  25821 multiletter control sequences out of 15000+600000
  531352 words of font info for 84 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 71i,11n,77p,1519b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 71i,11n,77p,1496b,539s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/
@@ -659,7 +662,7 @@ ts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/up
 lb8a.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.p
 fb></usr/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on nsf-sample-2.pdf (29 pages, 3615733 bytes).
+Output written on nsf-sample-2.pdf (29 pages, 3615774 bytes).
 PDF statistics:
  214 PDF objects out of 1000 (max. 8388607)
  119 compressed objects within 2 object streams
