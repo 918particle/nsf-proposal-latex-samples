@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: nsf-sample-2.aux
+The style file: ieeetr.bst
+Database file #1: bibliography.bib
+Warning--empty journal in Ackermann:201946d
+Warning--empty journal in Ackermann:20195ec
+You've used 68 entries,
+            1876 wiz_defined-function locations,
+            847 strings with 20704 characters,
+and the built_in function-call counts, 22027 in all, are:
+= -- 1811
+> -- 1677
+< -- 0
++ -- 591
+- -- 523
+* -- 1874
+:= -- 3514
+add.period$ -- 71
+call.type$ -- 68
+change.case$ -- 66
+chr.to.int$ -- 0
+cite$ -- 70
+duplicate$ -- 993
+empty$ -- 1536
+format.name$ -- 523
+if$ -- 5028
+int.to.chr$ -- 0
+int.to.str$ -- 68
+missing$ -- 60
+newline$ -- 210
+num.names$ -- 68
+pop$ -- 132
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 741
+stack$ -- 0
+substring$ -- 1010
+swap$ -- 485
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 153
+width$ -- 70
+write$ -- 682
+(There were 2 warnings)
